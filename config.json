@@ -1,11 +1,11 @@
 {
-  "token": "NTkzNjI5MTM2Mzk2NzQ2NzYy.XRQqPA.NS8UsER3ZVQvrihczMDCxzemIZk",
+  "token": "TOKEN",
   "prefix": "!",
   "readymessage": "COZYBOTREADY2ROCK&ROLLbb!",
   "database_credentials": {
     "host": "localhost",
     "username": "root",
-    "password": "isdc3333",
+    "password": "PASSWORD",
     "database": "discordbot"
   },
   "listener_messages": {
